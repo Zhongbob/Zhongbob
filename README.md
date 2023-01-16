@@ -10,6 +10,8 @@ https://rvhsgamejam.x10.mx
 I am the Founder and President of RdeV, a club dedicated to making Websites and Games
 https://rdev.x10.mx
 
+Currently working on a new Game, Seen Through a Colorless Lense, a puzzle-adventure game about manipulating colors to solve puzzles.
+
 How to reach me chua_zhong_ding@students.edu.sg
 
 <!---
