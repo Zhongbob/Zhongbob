@@ -1,18 +1,17 @@
-Hi, I’m @Zhongbob
-I’m interested in Website & Game Development
-I’m Experienced in Python, PHP, Javascript, HTML, CSS
-I am the creator and leader of the ongoing project "PeerView", a website dedicated to storing and distributing online notes created by Rvians.
-https://peerview.x10.mx
+# Hi, I'm Zhongbob 👋
 
-I am one of the Organisers of the RVHS 2022 GameJam
-https://rvhsgamejam.x10.mx
+I'm an aspiring Software Developer, currently crafting websites and games to contribute to society. I specialize in Python, PHP, JavaScript, HTML, and CSS.
 
-I am the Founder and President of RdeV, a club dedicated to making Websites and Games
-https://rdev.x10.mx
+## 🚀 Experience
 
-Currently working on a new Game, Seen Through a Colorless Lense, a puzzle-adventure game about manipulating colors to solve puzzles.
+- **Founder & President of RdeV**: Leading a club at River Valley High School dedicated to creating impactful websites and games. [Visit RdeV](https://rdev.x10.mx)
+- **Organizer of RVHS GameJam 2022 & 2023**: Spearheaded annual game development events, fostering creativity and technical skills. [Check out the GameJam](https://rvhsgamejam.x10.mx)
 
-How to reach me chua_zhong_ding@students.edu.sg
+## 📫 How to Reach Me
+- Email: [chua_zhong_ding@students.edu.sg](mailto:chua_zhong_ding@students.edu.sg)
+- Instagram: [@badnamer1231](https://instagram.com/badnamer1231)
+
+![Zhongbob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhongbob&show_icons=true)
 
 <!---
 Zhongbob/Zhongbob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
