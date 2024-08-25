@@ -16,6 +16,6 @@ I'm an aspiring Software Developer, currently crafting websites and games to con
 - Instagram: [@badnamer1231](https://instagram.com/badnamer1231)
 - LinkedIn: [Chua Zhong Ding](https://www.linkedin.com/in/chua-zhong-ding-94412728b/)
 
-![Zhongbob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhongbob&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhongbob&layout=compact&langs_count=8&hide=html,css)
+![Zhongbob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhongbob&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhongbob&layout=compact&langs_count=8&hide=html,css&theme=dark)
 
